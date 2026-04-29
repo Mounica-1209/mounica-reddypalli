@@ -10,7 +10,7 @@
 - 🏆 Forte Fellow · Merit Scholar · 90% MBA Scholarship recipient
 - 📍 Based in **Dallas, Texas**
 - 📫 Reach me at **mreddypalli@smu.edu**
-- 🔗 [LinkedIn](https://linkedin.com/in/mounica1209) · [Portfolio](https://mounicareddypalli.github.io)
+- 🔗 [LinkedIn](https://linkedin.com/in/mounica1209) 
 
 ---
 
