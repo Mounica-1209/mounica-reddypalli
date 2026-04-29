@@ -178,14 +178,6 @@ After this project, you will understand:
 - YAML-based configuration for AI agents
 - Agent task assignment and crew coordination
 
-## 📄 License
 
-MIT License
-
-## 👤 Author
-
-Your Name - AI/ML Developer
-
----
 
 *Built with CrewAI and LangChain as part of IBM Generative AI Certificate*
