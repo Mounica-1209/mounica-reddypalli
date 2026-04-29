@@ -1,0 +1,15 @@
+# AutoMed Healthcare Chatbot
+# Python dependencies
+
+# Multi-agent framework
+autogen==0.7
+
+# LLM provider
+openai>=1.0.0
+
+# Environment management
+python-dotenv>=1.0.0
+
+# Utilities
+logging
+warnings

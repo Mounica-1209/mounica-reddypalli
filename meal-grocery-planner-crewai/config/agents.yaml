@@ -1,0 +1,72 @@
+# YAML-based Agent Configuration
+# This file defines agents, tasks, and crew behavior declaratively
+
+agents:
+  - role: "Meal Planning Expert"
+    goal: "Find delicious recipes that match user preferences and budget"
+    backstory: |
+      You are a professional meal planner with expertise in diverse cuisines.
+      You research recipes, find ingredient lists, and ensure meals are
+      practical to prepare within the user's budget and time constraints.
+    tools:
+      - serper_dev_tool
+
+  - role: "Shopping Organization Expert"
+    goal: "Organize ingredients by store section for efficient shopping"
+    backstory: |
+      You are an expert at organizing grocery shopping lists.
+      You group items by store section (produce, dairy, meat, etc.)
+      and ensure nothing is missed for a complete shopping experience.
+
+  - role: "Budget Advisor"
+    goal: "Optimize shopping for maximum value within budget constraints"
+    backstory: |
+      You are a financial expert specializing in grocery budgeting.
+      You analyze ingredient costs, suggest alternatives, and provide
+      money-saving tips while ensuring nutritional needs are met.
+
+  - role: "Leftover Management Expert"
+    goal: "Minimize food waste by suggesting creative leftover recipes"
+    backstory: |
+      You are a culinary expert focused on reducing food waste.
+      You suggest creative ways to use leftover ingredients and
+      provide recipes that maximize the value of purchased items.
+
+tasks:
+  - description: |
+      Research and find recipes for the given meal preference.
+      Provide detailed ingredient lists, cooking instructions,
+      difficulty level, and estimated cooking time.
+    expected_output: |
+      A meal plan with recipe name, ingredients, difficulty,
+      servings, and cooking time
+    agent: "Meal Planning Expert"
+
+  - description: |
+      Organize the ingredients from the meal plan by store section.
+      Group items like produce, dairy, meat, and pantry items separately.
+      Provide estimated prices for each item.
+    expected_output: |
+      A shopping list organized by store sections with item details
+    agent: "Shopping Organization Expert"
+
+  - description: |
+      Analyze the shopping list and provide budget optimization.
+      Suggest alternatives to reduce costs, provide money-saving tips,
+      and ensure the total stays within budget.
+    expected_output: |
+      Budget analysis with cost estimates and savings tips
+    agent: "Budget Advisor"
+
+  - description: |
+      Suggest creative recipes for any leftover ingredients.
+      Provide ideas to minimize food waste and maximize value.
+    expected_output: |
+      Leftover recipe suggestions and food waste prevention tips
+    agent: "Leftover Management Expert"
+
+crew:
+  process: "sequential"  # Tasks run one after another
+  verbose: true
+  memory: false
+  cache: true
