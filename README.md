@@ -3,10 +3,8 @@
 
 ## 🙋‍♀️ About Me
 
-- 🎓 **MBA(STEM) Candidate** at SMU Cox School of Business *(Strategy · Marketing · Business Analytics)*
 - 💼 **6+ years** of experience building Data Science and AI/ML applications
-- 🤖 Passionate about connecting **technical execution with business strategy**
-- 🌱 Currently exploring **AI Product Management** and **Generative AI**
+- 🤖 Passionate about connecting **technical execution strategy**
 - 🏆 Forte Fellow · Merit Scholar · 90% MBA Scholarship recipient
 - 📍 Based in **Dallas, Texas**
 - 📫 Reach me at **mreddypalli@smu.edu**
