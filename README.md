@@ -1,16 +1,9 @@
 # Hi there, I'm Mounica Reddypalli 👋
 
-<div align="center">
-  
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=AI+Product+Builder;Data+Scientist;Technology+Strategist;MBA+Candidate+%40+SMU+Cox;Problem+Solver)](https://git.io/typing-svg)
-
-</div>
-
----
 
 ## 🙋‍♀️ About Me
 
-- 🎓 **MBA Candidate** at SMU Cox School of Business *(Strategy · Marketing · Business Analytics)*
+- 🎓 **MBA(STEM) Candidate** at SMU Cox School of Business *(Strategy · Marketing · Business Analytics)*
 - 💼 **6+ years** of experience building Data Science and AI/ML applications
 - 🤖 Passionate about connecting **technical execution with business strategy**
 - 🌱 Currently exploring **AI Product Management** and **Generative AI**
