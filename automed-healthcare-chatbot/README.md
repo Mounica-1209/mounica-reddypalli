@@ -187,15 +187,7 @@ After this project, you will understand:
 - Agent-to-agent communication patterns
 - Healthcare domain AI application
 
-## 📄 License
 
-MIT License
-
-## 👤 Author
-
-Your Name - AI/ML Developer
-
----
 
 *Built with AG2 (AutoGen) as part of IBM Generative AI Certificate*
 
