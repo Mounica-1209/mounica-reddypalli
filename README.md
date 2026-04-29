@@ -96,19 +96,7 @@
 - 🤖 **Google Certified Generative AI Leader**
 - 🧠 **Generative AI and AI Agents System Design Certification**
 
----
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-![Mounica's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mounicareddypalli&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7c3aed)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mounicareddypalli&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff)
-
-</div>
-
----
 
 <div align="center">
 
