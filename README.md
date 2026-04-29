@@ -88,13 +88,6 @@
 🎓 Graduated 2nd in Engineering Batch &nbsp;·&nbsp; 📄 IEEE Research Publication  
 🚀 Nucleate Entrepreneurship Program Finalist &nbsp;·&nbsp; 🤝 VP, Asian Business Association
 
----
-
-## 📜 Certifications
-
-- 🏅 **Aha Product Management Professional Certification**
-- 🤖 **Google Certified Generative AI Leader**
-- 🧠 **Generative AI and AI Agents System Design Certification**
 
 
 
@@ -106,7 +99,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mounica1209)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mreddypalli@smu.edu)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://mounicareddypalli.github.io)
+
 
 ---
 
